@@ -1,5 +1,7 @@
-def partOne(input):
+from io import TextIOWrapper
+
+def partOne(input: TextIOWrapper):
     pass
 
-def partTwo(input):
+def partTwo(input: TextIOWrapper):
     pass
